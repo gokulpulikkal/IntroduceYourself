@@ -3,7 +3,7 @@
 ### This app was created as part of the pre-work submission of the CodePath course. It is a simple demo app which will take inputs from the user and show it back with an alert box. 
 
 ### App Walk-though
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="https://github.com/gokulpulikkal/IntroduceYourself/assets/52960334/f2940cdc-5573-4038-8d81-519ba11cffdb" width=200><br>
 
 
 ### Required Features
